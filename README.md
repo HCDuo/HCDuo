@@ -16,15 +16,18 @@
 
 #### :computer: Programming languages and tools :computer: : 
 <p>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+</p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
 </p>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 
 <!---
 HCDUO/HCDUO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
