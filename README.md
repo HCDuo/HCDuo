@@ -4,12 +4,11 @@
 [![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](http://www.blog.chongduo-h.cn)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240" />
 - 🍻 Senior at 🇨🇳 [JNU](https://www.jnu.edu.cn/main.htm), _BSc in network engineering_
-- ⚡java / C / C++ / Python / C#.
-- ✍️ [Blogger](http://www.blog.chongduo-h.cn)
-- 🏃 Basketball / Fitness  /Computer Games
-- 📫 reach me：HCDuo8257@163.com
+- ⚡ java / C / C++ / Python / C#.
+- ✍️ My humble blog [Blogger](http://www.blog.chongduo-h.cn)
+- 📫 any freelance work?  do reach, [email](HCDuo8257@163.com) :)
 - 💞️ I’m looking to collaborate on
-
+- 🏃 Basketball / Fitness  /Computer Games
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HCDUO&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HCDUO&layout=compact&theme=buefy&hide_border=true" /></a> |
