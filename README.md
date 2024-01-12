@@ -6,7 +6,7 @@
 - 🍻 Senior at 🇨🇳 [JNU](https://www.jnu.edu.cn/main.htm), _BSc in network engineering_
 - ⚡ java / C / C++ / Python / C#.
 - ✍️ My humble blog [Blogger](http://www.blog.chongduo-h.cn)
-- 📫 any freelance work?  do reach, [email](HCDuo8257@163.com) :)
+- 📫 any freelance work?  do reach, [email](mailto:HCDuo8257@163.com) :)
 - 💞️ I’m looking to collaborate on
 - 🏃 Basketball / Fitness  /Computer Games
 
